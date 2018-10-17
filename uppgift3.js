@@ -11,3 +11,4 @@ celsius.toFixed(0)
 return ("Temperaturen i Celsius är " + celsius.toFixed(1) + " C.");
 }
 alert(converter());
+
