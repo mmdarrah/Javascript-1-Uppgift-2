@@ -1,7 +1,7 @@
 /* Ett program som beskriver en hiss
-det finns två motoder som man kan använda gotTo och Where()
-så när man lägga till plan numer programet ska reterna vilken plan hissen åker till 
-och på vilken plan hissen äe i.
+det finns två metoder som man kan använda gotTo och Where()
+så när man lägga till plan numer programmet ska returnera vilken plan hissen åker till 
+och på vilken plan hissen är i.
 */ 
 
 let hiss = {
